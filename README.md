@@ -54,7 +54,7 @@ These are the things you need to perform in order to use it.
 
 ### Setup
 
-Change the Webhook URL with your own at line 28.
+Change the [Webhook](https://support.discord.com/hc/en-us/articles/228383668-Intro-to-Webhooks) URL with your own at line 28.
 
 
 ### Cloning
