@@ -63,7 +63,7 @@ Change the Webhook URL with your own at line 28.
 2. Go to your desired directory
 3. Clone the repo
    ```sh
-   git clone https://github.com/0xr4Gn4R/KeyLog.git
+   git clone https://github.com/dsccvrgu/KeyLog.git
    ```
 3. Get into the directory
    ```sh
